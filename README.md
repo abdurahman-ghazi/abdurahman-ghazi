@@ -1,4 +1,4 @@
-<h1 align="center">السلام عليكم  👋, أنا عبد الرحمان غازي</h1>
+<h1 align="center">السلام عليكم  👋, أنا عبد الرحمان </h1>
 
 <p align="right"> <a href="https://twitter.com/abdurahmn_ghazi" target="blank"><img src="https://img.shields.io/twitter/follow/abdurahmn_ghazi?logo=twitter&style=for-the-badge" alt="abdurahmn_ghazi" /></a> </p>
 
